@@ -19,12 +19,12 @@ A new app store for Nextcloud apps built with Django. Up and running at [https:/
 We **do not handle Nextcloud integration**. Nextcloud integration is handled in the [Nextcloud Server repository](https://github.com/nextcloud/server).
 
 ## Documentation
-Documentation including setup and API specification is [available on Read the Docs](https://nextcloudappstore.readthedocs.io/en/latest/)
+Documentation including setup and API specification is [available on Read the Docs](https://nextcloudappstore.readthedocs.io/en/latest/).
 
 ## Contributing
-If you want to help in developing the App Store, translating or filing bugs and feature requests, please consult the [contributing guidelines](https://github.com/nextcloud/appstore/blob/master/.github/CONTRIBUTING.md)
+If you want to help in developing the App Store, translating or filing bugs and feature requests, please consult the [contributing guidelines](https://github.com/nextcloud/appstore/blob/master/.github/CONTRIBUTING.md).
 
 ## Security
 If you find security issues or bugs please follow the [official security process](https://nextcloud.com/security/).
 
-The store does not offer any bug bounties but we hope that you still want to help us to fix its issues :)
+The store does not offer any bug bounties but we hope that you still want to help us to fix its issues :).
